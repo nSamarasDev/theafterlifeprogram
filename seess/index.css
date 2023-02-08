@@ -26,7 +26,7 @@ Variables
   /* darkest grey - used for headings */
   --clr-grey-1: hsl(209, 61%, 16%);
   --clr-grey-2: hsl(211, 39%, 23%);
-  --clr-grey-3: hsl(209, 34%, 30%);
+  --clr-grey-3: hsl(209, 83%, 70%);
   --clr-grey-4: hsl(209, 28%, 39%);
   /* grey used for paragraphs */
   --clr-grey-5: hsl(210, 22%, 49%);
@@ -268,16 +268,7 @@ nav {
   flex-wrap: wrap;
 }
 
-/*///////////////////////////////////////////////*/
-@media screen and (min-width: 800px) {
-  .nav-center {
-    max-width: 1170px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1rem;
-  }
+
 
   /*///////////////////////////////*/
   .nav-header {
@@ -387,9 +378,5 @@ nav {
   text-align: center;
   bottom:0;
 }
-
-/*  // 404 page  //   */
-
-
 
 
