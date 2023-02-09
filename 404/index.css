@@ -52,7 +52,7 @@ span a:hover {
 
 @media screen and (max-width: 500px) {
     img {
-        width: 10%;
+        width: 50%;
     }
     .container {
         padding: 70px 10px 10px 10px;
